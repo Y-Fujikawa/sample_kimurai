@@ -16,3 +16,6 @@
 .env
 
 capybara-*.png
+
+/outputs/*
+!/outputs/.keep
